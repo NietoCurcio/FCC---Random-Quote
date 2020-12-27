@@ -1,4 +1,4 @@
-# Markdown Previewr
+# Markdown Previewer
 
 > My Front-End project in Front-End Libraries at freeCodeCamp.
 
@@ -8,7 +8,7 @@
 
 ## SCSS
 
-Scss is a css preprocessor, which its advanvanterages is that you can use nested elements (as in this project), mixins (are like functions), "&" operator, @for and @if@else statements to manipulate stylesheets. Look at [Sass Documentation to learn more](https://sass-lang.com/guide)
+Scss is a css preprocessor, which its advantages is that you can use nested elements (as in this project), mixins (are like functions), "&" operator, @for and @if@else statements to manipulate stylesheets. Look at [Sass Documentation to learn more](https://sass-lang.com/guide).
 
 ## React
 
@@ -20,4 +20,4 @@ the App component of my application. The Single Page Application approach is tha
 
 This project uses some script sourcers such as React, React Dom, provided in [React's documentations](https://reactjs.org/docs/cdn-links.html), Babel transpiler [Babel](https://babeljs.io/en/setup#installation) and Marked Parser[Marked](https://github.com/markedjs/marked?utm_source=cdnjs&utm_medium=cdnjs_link&utm_campaign=cdnjs_library).
 
-The project is Live at Codepen - [Markdown Previewer](https://codepen.io/FelipeNieto/full/XWjzwMZ)
+The project is Live at Codepen - [Markdown Previewer](https://codepen.io/FelipeNieto/full/XWjzwMZ).
