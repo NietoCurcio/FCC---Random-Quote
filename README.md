@@ -23,3 +23,5 @@ the messages' data, [Babel](https://babeljs.io/en/setup#installation) preprocess
 [Font Awesome](https://cdnjs.com/libraries/font-awesome) as well.
 
 The project is Live at Codepen - [Random Quote Machine](https://codepen.io/FelipeNieto/full/rNMYqwJ)
+
+These projects are proposed by [freeCodeCamp](https://www.freecodecamp.org/), switch among branchs in this repository to see others.
