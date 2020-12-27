@@ -18,8 +18,8 @@ A css using a little of transitio and flexbox
 ## HTML
 
 Using React to make an app that shows a different quote every time the user click in the "New Quote" button. Some CDN links were necessary to make my projects works, like 
-React and ReactDOM, provided in [React's documentations](https://reactjs.org/docs/cdn-links.html), [axios](https://cdnjs.com/libraries/axios) to make the request to fetch
-the array of messages, [Babel](https://babeljs.io/en/setup#installation) preprocessor to transpile the JSX returned by the function App component in the script.js file and
-[Font Awesome](https://cdnjs.com/libraries/font-awesome) as well.
+React and ReactDOM, provided in [React's documentations](https://reactjs.org/docs/cdn-links.html){:target="_blank"}, [axios](https://cdnjs.com/libraries/axios){:target="_blank"} to make the request to fetch
+the array of messages, [Babel](https://babeljs.io/en/setup#installation){:target="_blank"} preprocessor to transpile the JSX returned by the function App component in the script.js file and
+[Font Awesome](https://cdnjs.com/libraries/font-awesome){:target="_blank"} as well.
 
-The project is in Live at Codepen - [Random Quote Machine](https://codepen.io/FelipeNieto/full/rNMYqwJ)
+The project is in Live at Codepen - [Random Quote Machine](https://codepen.io/FelipeNieto/full/rNMYqwJ){:target="_blank"}
