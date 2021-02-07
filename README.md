@@ -4,7 +4,9 @@ This project is all about Asynchronous Programming.
 
 > Final Project in Front-end Libraries, freeCodeCamp
 
-<img src="https://github.com/NietoCurcio/FCC-Front-End-Libraries/blob/main/.github/screenshot1.png?raw=true" width="750" alt="25 + 5 Clock">
+<p align="center">
+<img src="https://github.com/NietoCurcio/FCC-Front-End-Libraries/blob/main/.github/screenshot2.png?raw=true" width="750" alt="25 + 5 Clock">
+</p>
 
 ## React and Redux - State, Effects and asynchronicity
 
@@ -105,5 +107,7 @@ This project is using sass preprocessor to create the css file, sass allow us to
 ## freeCodeCamp - Front-end Libraries
 
 This course teaches you how to use HTML, Javascript, CSS, Sass, Bootstrap, React, Redux and Jquery to build Web applications.
+
+### This project it is live at [Codepen.io](https://codepen.io/FelipeNieto/full/qBaxwZO)
 
 ## [LinkedIn](https://www.linkedin.com/in/felipe-antonio-nieto-curcio-9b865116a/)
